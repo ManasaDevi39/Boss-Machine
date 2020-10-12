@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
-  "homepage": "https://manasadevi39.github.io/Boss-Machine/",
+  "homepage": "https://manasadevi39.github.io/BossMachinetoTrack/",
   "scripts": {
     "build": "webpack",
     "test": "cross-env PORT=8000 mocha --watch",
